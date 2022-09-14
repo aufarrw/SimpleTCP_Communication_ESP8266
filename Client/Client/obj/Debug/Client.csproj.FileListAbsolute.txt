@@ -1,0 +1,13 @@
+D:\magang\September\Minggu 2\12 September\Client\Client\bin\Debug\Client.exe.config
+D:\magang\September\Minggu 2\12 September\Client\Client\bin\Debug\Client.exe
+D:\magang\September\Minggu 2\12 September\Client\Client\bin\Debug\Client.pdb
+D:\magang\September\Minggu 2\12 September\Client\Client\bin\Debug\SimpleTCP.dll
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.Form1.resources
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.csproj.CopyComplete
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.exe
+D:\magang\September\Minggu 2\12 September\Client\Client\obj\Debug\Client.pdb
